@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![Screenshot 2023-12-31 185805](https://github.com/faizalkhan24/Chaimpion_gym-website-in-react-js/assets/103817308/6ef2c900-a430-4e0b-a00c-9d98e34f602a)
+![Screenshot 2023-12-31 185813](https://github.com/faizalkhan24/Chaimpion_gym-website-in-react-js/assets/103817308/6600b3a6-19ca-41a3-b6e3-761bc9eed590)
+![Screenshot 2023-12-31 185824](https://github.com/faizalkhan24/Chaimpion_gym-website-in-react-js/assets/103817308/d78142fe-9739-4e24-928d-cdf4cc69b385)
+![Screenshot 2023-12-31 185756](https://github.com/faizalkhan24/Chaimpion_gym-website-in-react-js/assets/103817308/c5d01c89-8588-447c-9eb2-96fb3077d802)
+
+
